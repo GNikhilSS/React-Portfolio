@@ -128,7 +128,7 @@ const Footer = () => {
                       className="logo reveal-up"
                     >
                         <img 
-                          src="/images/logo.svg" 
+                          src="./images/logo.svg" 
                           alt="Logo" 
                           width={40}
                           height={40} 
